@@ -1,6 +1,8 @@
 # CNC3018
 repository for my CNC3018
 
+<img src="Images/IMG_20190925_144249.jpg" width="500">
+
 My CNC3018 CNC-router.
 
 it has a 100W spindle and 0.5W laser can be mounted on it.
