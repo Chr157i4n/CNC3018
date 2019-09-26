@@ -4,7 +4,7 @@ The Mainboard of my CNC3018 is a Woodpecker 3.2A GRBL based on an Atmel 328P
 
 ### Stepperdriver
 
-The CNC only has 3 Axis an a spindle.
+The CNC only has 3 Axis and a spindle.
 On the mainboard there a 3 slots for stepperdrivers and by default there are 3 A4988 
 
 ### Fans
